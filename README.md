@@ -17,4 +17,4 @@ The analysis focuses on pricing, availability, room types, and neighbourhood-lev
 
 ## Tableau Dashboard
 🔗 View the live dashboard here:  
-https://public.tableau.com/views/AirbnbfullProject_17667706601220/Dashboard1
+https://public.tableau.com/views/AirbnbfullProject_17667706601220/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
